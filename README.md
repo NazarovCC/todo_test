@@ -7,7 +7,9 @@
 ### Реализован следующий функционал
 - добавление дела
 
-Для этого необходимо перейти на "Создание дела", ввести название(длина небольше 20 символов) и нажать на кнопку "Добавить"
+Для этого необходимо перейти на "Создание дела"
+![drawer](https://sun9-58.userapi.com/impg/faSGFI3M86B09RvuEF1HV-R3D3FNv2ukl3vC-A/BK16A0DVZFA.jpg?size=46x34&quality=96&sign=591dbf292d4342cebec8b66e83254641&type=album),
+ввести название(длина небольше 20 символов) и нажать на кнопку "Добавить"
 ![addtodo](https://sun9-41.userapi.com/impg/C6B9Wf8U5h4t4lW7JjQcAjpNeFv2fDlX6SHGfg/hKT6QBqss7Y.jpg?size=486x1080&quality=96&sign=697d92173bc723391c02037fcda2bb03&type=album)
 
 - измение статуса дела на (завершен/незавершен)
